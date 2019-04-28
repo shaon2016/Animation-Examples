@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Animation Practice</string>
+    <string name="fling_animation">Fling Animation</string>
+    <string name="fling_the_image">Fling the image</string>
 </resources>
