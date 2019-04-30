@@ -5,6 +5,13 @@ import android.support.v7.app.AppCompatActivity
 import android.view.View
 import kotlinx.android.synthetic.main.activity_auto_layout_animation.*
 
+/**
+ * Android provides some basic animation.
+ * Add, remove, delete, update animation.
+ *
+ * Just add this line android:animateLayoutChanges="true"
+ * Layout view will automatically animate
+ * */
 class AutoLayoutAnimationActivity : AppCompatActivity() {
     var v: View? = null
 
