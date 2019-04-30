@@ -22,5 +22,8 @@ class MainActivity : AppCompatActivity() {
         btnAutoLayoutAnimationPage.setOnClickListener {
             startActivity(Intent(this, AutoLayoutAnimationActivity::class.java))
         }
+        btnActivityTransitionPage.setOnClickListener {
+            startActivity(Intent(this, ActivityWindowTransitionOne::class.java))
+        }
     }
 }

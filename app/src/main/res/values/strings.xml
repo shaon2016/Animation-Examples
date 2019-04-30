@@ -6,4 +6,5 @@
     <string name="remove">Remove</string>
     <string name="add">Add</string>
     <string name="i_am_added">I am added</string>
+    <string name="activity_transition">Activity transition</string>
 </resources>
