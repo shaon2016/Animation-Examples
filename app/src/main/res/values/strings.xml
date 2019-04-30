@@ -2,4 +2,8 @@
     <string name="app_name">Animation Practice</string>
     <string name="fling_animation">Fling Animation</string>
     <string name="fling_the_image">Fling the image</string>
+    <string name="auto_layout_animation">Auto layout animation</string>
+    <string name="remove">Remove</string>
+    <string name="add">Add</string>
+    <string name="i_am_added">I am added</string>
 </resources>

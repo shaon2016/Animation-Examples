@@ -19,5 +19,8 @@ class MainActivity : AppCompatActivity() {
         btnFlingAnimationPage.setOnClickListener {
             startActivity(Intent(this, FlingAnimation::class.java))
         }
+        btnAutoLayoutAnimationPage.setOnClickListener {
+            startActivity(Intent(this, AutoLayoutAnimationActivity::class.java))
+        }
     }
 }
