@@ -7,4 +7,24 @@
         android:layout_height="match_parent"
         tools:context=".ExplodeTransitionItemDetails">
 
+    <TextView
+            android:textSize="18sp"
+            android:text="@string/md_rafiqul_islam"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvName" app:layout_constraintStart_toStartOf="parent" android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp" app:layout_constraintTop_toTopOf="parent"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp" android:layout_marginRight="8dp"
+            android:layout_marginTop="48dp" app:layout_constraintHorizontal_bias="0.071"/>
+    <TextView
+            android:padding="16dp"
+            android:text="@string/lorem"
+            android:textSize="20sp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/tvMainContent" app:layout_constraintStart_toStartOf="parent"
+            android:layout_marginLeft="8dp"
+            android:layout_marginStart="8dp" app:layout_constraintTop_toBottomOf="@+id/tvName"
+            app:layout_constraintEnd_toEndOf="parent" android:layout_marginEnd="8dp" android:layout_marginRight="8dp"
+            android:layout_marginTop="36dp" app:layout_constraintHorizontal_bias="0.056"/>
 </android.support.constraint.ConstraintLayout>

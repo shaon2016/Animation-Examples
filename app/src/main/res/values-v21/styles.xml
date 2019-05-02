@@ -5,7 +5,7 @@
             @transition/grid_exit
         </item>
         <item name="android:windowReenterTransition">
-            @android:transition/slide_top
+            @android:transition/slide_bottom
         </item>
     </style>
 </resources>
