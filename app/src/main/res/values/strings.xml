@@ -7,4 +7,6 @@
     <string name="add">Add</string>
     <string name="i_am_added">I am added</string>
     <string name="activity_transition">Activity transition</string>
+    <string name="shared_transition">Shared Transition</string>
+    <string name="explode_transition">Explode transition</string>
 </resources>

@@ -9,6 +9,14 @@
             android:roundIcon="@mipmap/ic_launcher_round"
             android:supportsRtl="true"
             android:theme="@style/AppTheme">
+        <activity android:name=".ExplodeTransitionItemDetails">
+        </activity>
+        <activity
+                android:name=".ExplodeTransitionActivity"
+                android:theme="@style/AppTheme.ExplodeTransitionActivity">
+        </activity>
+        <activity android:name=".ActivityWindowTransition">
+        </activity>
         <activity android:name=".ActivityWindowTransitionTwo">
         </activity>
         <activity android:name=".ActivityWindowTransitionOne">
